@@ -1,1 +1,4 @@
-Lang-sam for sam2 require python>3.11. so this is the old version for python3.10 and lower.
+Lang-sam for sam2 require python>3.11.
+so this is the old version for python3.10 and lower.
+
+pyproject.toml中的pillow从 9.3.0 -> 9.4.0
